@@ -231,28 +231,12 @@ MONGO_URL=mongodb+srv://username:password@yourcluster.mongodb.net/?retryWrites=t
 
 ---
 
-## ✅ What to Submit
-
-Submit your base URL from Render:
-
-✅ Example:
-
-```
-https://your-app-name.onrender.com
-```
-
-⛔ Not this:
-
-```
-https://your-app-name.onrender.com/products
-```
 
 ---
 
 ## 👤 Author
 
-**Sahil Vanarse**
-HROne Intern – July 2025
+**Sahil Vanarse** – July 2025
 GitHub: [https://github.com/sahil-vanarse](https://github.com/sahil-vanarse)
 
 ```

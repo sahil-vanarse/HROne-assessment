@@ -1,10 +1,4 @@
-Crystal clear now bro. You want **one single `README.md` file** — no chat, no separation, no breaks — just one file you can **click "Copy" once** and paste into your `README.md`.
 
-Here is that **complete, 1-shot README.md**. No fragments. No back and forth.
-
----
-
-### ✅ Copy everything below from the line after this into your `README.md`:
 
 ```markdown
 # 🛒 HROne E-commerce Backend API

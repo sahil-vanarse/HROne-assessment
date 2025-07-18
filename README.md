@@ -55,7 +55,7 @@ HROne/
 1. **Clone the repository**
 ```
 
-git clone [https://github.com/YOUR\_USERNAME/hrone-backend.git]((https://github.com/sahil-vanarse/HROne-assessment))
+git clone [https://github.com/sahil-vanarse/HROne-assessment]((https://github.com/sahil-vanarse/HROne-assessment))
 cd hrone-backend
 
 ```
@@ -116,7 +116,7 @@ uvicorn main\:app --reload
 5. Deploy and wait for live URL like:  
 ````
 
-[https://your-app-name.onrender.com]((https://hrone-assessment.onrender.com/))
+[https://hrone-assessment.onrender.com/]((https://hrone-assessment.onrender.com/))
 
 ````
 
@@ -253,7 +253,7 @@ https://your-app-name.onrender.com/products
 
 **Sahil Vanarse**
 HROne Intern – July 2025
-GitHub: [https://github.com/YOUR\_USERNAME](https://github.com/sahil-vanarse)
+GitHub: [https://github.com/sahil-vanarse](https://github.com/sahil-vanarse)
 
 ```
 
